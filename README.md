@@ -10,7 +10,7 @@ pkg install python2
 https://github.com/Unknowns0x/hash-K9.git
 
 
-cd hash-k
+cd hash-k9
 
 
 chmod +x hashUN.py

@@ -1,19 +1,13 @@
-pkg update 
-
+pkg update
 
 pkg install git
 
-
 pkg install python2
 
+git clone https://github.com/Spider-Team0/hash-K9.git
 
-https://github.com/Unknowns0x/hash-K9.git
+cd hash-K9
 
+chmod +x hash.py
 
-cd hash-k9
-
-
-chmod +x hashUN.py
-
-
-python2 hashUN.py
+python2 hash.py
